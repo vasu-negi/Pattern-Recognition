@@ -18,9 +18,6 @@ from CVUtil import CVUtil
 from DataLoader import DataLoader
 from CreateNetwork import CreateNetwork
 
-# os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
-
-
 
 batch_size = 128
 epochs = 1
